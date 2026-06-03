@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+/* Custom Dark Theme Scrollbars */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #0a0a0a; /* neutral-950 */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #262626; /* neutral-800 */
+  border: 2px solid #0a0a0a;
+  border-radius: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #404040; /* neutral-700 */
+}
+
+/* Optional: Make the scrollbar corner match the background */
+.custom-scrollbar::-webkit-scrollbar-corner {
+  background: #0a0a0a;
+}
