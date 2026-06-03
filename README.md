@@ -1,12 +1,9 @@
 # MLScript Studio
 
-<div align="center">
-  <video src="docs/usage.mp4" width="100%" controls autoplay loop muted>
-    Twoja przeglądarka nie obsługuje odtwarzacza wideo. Plik demonstracyjny znajduje się w lokalizacji <code>docs/usage.mp4</code>.
-  </video>
-</div>
 
-![](docs/usage.mp4)
+
+https://github.com/user-attachments/assets/8550b03e-6f39-499f-97c1-586ca1e7e27e
+
 
 
 ## O projekcie
